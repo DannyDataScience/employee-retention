@@ -2,6 +2,12 @@
 
 This project utilizes data analysis techniques and machine learning models to study the employee attrition rate in an organization. An exploratory data analysis is performed, important relationships between variables are visualized, and predictive models are built to estimate the economic impact of employee turnover.
 
+## Dashboard
+
+For an interactive overview of the analysis and results, please visit the dashboard created with Tableau: [Employee Retention Dashboard](https://public.tableau.com/views/EmployeeRetention_17295475897190/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+![Dashboard](Dashboard.png)
+
 ## Project Description
 
 1. **Data Loading and Cleaning:**
